@@ -1,0 +1,136 @@
+[
+  {
+	"id": 1,
+	"Tipo": "Perro",
+	"Nombre": "Pascual",
+	"Observacion": "Esta mal",
+	"Ubicacion": "Lora del Rio",
+	"Rasgos": "Tiene el pelo cafe  , ademas tiene una patica mala"
+
+
+},
+{
+	"id": 2,
+	"Tipo": "Gato",
+	"Nombre": "Icaro",
+	"Observacion": "Es un gatico cachorro que esta en la calle",
+	"Ubicacion": "Brenes",
+	"Rasgos": "Es pequeño  y el pelo lo tiene negro"
+}, 
+{
+	"id": 3,
+	"Tipo": "Caballo",
+	"Nombre": "Oreo",
+	"Observacion": "Esta denutrido",
+	"Ubicacion": "Cantillana",
+	"Rasgos": "Es blanco y  esta  muy delgado"
+}, 
+{
+	"id": 4,
+	"Tipo": "Perro",
+	"Nombre": "Sacha",
+	"Observacion": "Tiene un ojo  herido",
+	"Ubicacion": "Cantillana",
+	"Rasgos": "Es un perro criollo y tiene un ojo spr herido"
+},
+  {
+	"id": 5,
+	"Tipo": "Gato",
+	"Nombre": "Nica",
+	"Observacion": "Es una gatica que acabo de dar a luz",
+	"Ubicacion": "Cantillana",
+	"Rasgos": "Es una gata blanca y tiene 6 gaticos cachorros"
+
+
+},
+{
+	"id": 6,
+	"Tipo": "Pajaro",
+	"Nombre": "Cantor",
+	"Observacion": "Tiene una ala aproriada",
+	"Ubicacion": "Lora del Rio",
+	"Rasgos": "Es un pechi rojo"
+
+}, 
+{
+	"id": 7,
+	"Tipo": "Perro",
+	"Nombre": "scott",
+	"Observacion": "Esta muy herido",
+	"Ubicacion": "Lora del Rio",
+	"Rasgos": "Tes un labrador  viejito colo cafe "
+}, 
+{
+	"id": 8,
+	"Tipo": "Perro",
+	"Nombre": "Toby",
+	"Observacion": "Para adopcion",
+	"Ubicacion": "Brenes",
+	"Rasgos": "Tiene el pelo cafe  , ademas tiene una patica mala"
+},
+{
+	"id": 9,
+	"Tipo": "Gato",
+	"Nombre": "Sas",
+	"Observacion": " para dar en adopcion",
+	"Ubicacion": "Lora del Rio",
+	"Rasgos": "Tiene el cabello gris con blanco "
+},
+{
+	"id": 10,
+	"Tipo": "Gato",
+	"Nombre": "NN",
+	"Observacion": "Esta mal",
+	"Ubicacion": "Sevilla",
+	"Rasgos": "Tiene el pelo cafe  con blanco , ademas tiene una patica mala"
+},
+{
+	"id":11,
+	"Tipo": "Perro",
+	"Nombre": "Boxer",
+	"Observacion": "Se ve que tiene dueño esta muy bien ",
+	"Ubicacion": "Sevilla",
+	"Rasgos": "Es cafe con blanco"
+},
+{
+	"id": 12,
+	"Tipo": "Perro",
+	"Nombre": "NN",
+	"Observacion": "Lo dejaron en una caja , con  dos piernas rotas",
+	"Ubicacion": "Sevilla",
+	"Rasgos": "Tiene el pelo cafe con negro y ya esta algo  viejito"
+},
+{
+	"id": 13,
+	"Tipo": "Perro",
+	"Nombre": "Toby",
+	"Observacion": "Parece que tiene dueño por que esta muy bien ",
+	"Ubicacion": "Lora del Rio",
+	"Rasgos": "Es un perro criollo de color cafe de raza media"
+},
+{
+	"id": 14,
+	"Tipo": "Gato",
+	"Nombre": "Tobias",
+	"Observacion": "Para adopcion",
+	"Ubicacion": "Brenes",
+	"Rasgos": "Es un cachorro"
+},
+{
+	"id": 15,
+	"Tipo": "Gato",
+	"Nombre": "Velasco",
+	"Observacion": "Para dar en adopcion",
+	"Ubicacion": "Lora del Rio",
+	"Rasgos": "Tiene apenas un mes de nacido"
+},
+{
+	"id": 16,
+	"Tipo": "Perro",
+	"Nombre": "Kiko",
+	"Observacion": "en adopcion",
+	"Ubicacion": "Brenes",
+	"Rasgos": "Perro pitbull"
+}
+
+]
